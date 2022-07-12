@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/font_koho_regular.ttf.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/font/koho_regular.ttf"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_icon_por_quant.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-hdpi/ic_icon_por_quant.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_icon_por_ml.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-mdpi/ic_icon_por_ml.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_loading.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-xhdpi/ic_loading.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_icon_por_ml.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-hdpi/ic_icon_por_ml.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_loading.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-xxhdpi/ic_loading.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_icon_por_ml.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-xhdpi/ic_icon_por_ml.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/layout_activity_cad_bebidas.xml.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/layout/activity_cad_bebidas.xml"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/layout_dialog_mensagem.xml.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/layout/dialog_mensagem.xml"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_icon_hand_beer.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-xxhdpi/ic_icon_hand_beer.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/layout_activity_calculadora_ml.xml.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/layout/activity_calculadora_ml.xml"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable_beersplash.jpg.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable/beersplash.jpg"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_icon_por_ml.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-xxxhdpi/ic_icon_por_ml.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/layout_menu_activity.xml.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/layout/menu_activity.xml"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/color_color_line.xml.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/color/color_line.xml"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable_ic_add.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable/ic_add.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable_cloudy.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable/cloudy.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_loading.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-xxxhdpi/ic_loading.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/layout_item_lista_bebidas.xml.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/layout/item_lista_bebidas.xml"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_icon_por_ml.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-xxhdpi/ic_icon_por_ml.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/font_koho.ttf.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/font/koho.ttf"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable_shape.xml.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable/shape.xml"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_loading.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-mdpi/ic_loading.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/menu_menu_cadbebidas.xml.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/menu/menu_cadbebidas.xml"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable_rain.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable/rain.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable_beercad.jpg.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable/beercad.jpg"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_loading.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-hdpi/ic_loading.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_icon_hand_beer.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-xxxhdpi/ic_icon_hand_beer.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_icon_hand_beer.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-xhdpi/ic_icon_hand_beer.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_icon_hand_beer.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-mdpi/ic_icon_hand_beer.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable_sun.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable/sun.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/layout_activity_calculadora_quant.xml.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/layout/activity_calculadora_quant.xml"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_icon_hand_beer.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-hdpi/ic_icon_hand_beer.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_icon_por_quant.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-xhdpi/ic_icon_por_quant.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/layout_activity_lista_bebidas.xml.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/layout/activity_lista_bebidas.xml"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/font_koho_italico.ttf.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/font/koho_italico.ttf"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/font_koho_negrito.ttf.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/font/koho_negrito.ttf"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable_background.xml.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable/background.xml"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_icon_por_quant.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-xxhdpi/ic_icon_por_quant.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_icon_por_quant.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-mdpi/ic_icon_por_quant.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_icon_por_quant.png.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable-xxxhdpi/ic_icon_por_quant.png"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/font_koho_medium.ttf.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/font/koho_medium.ttf"
+    },
+    {
+        "merged": "/home/user/estudos/beercalc/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/user/estudos/beercalc/app/src/main/res/drawable/ic_launcher_background.xml"
+    }
+]
