@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculadora de bebidas</string>
+    <string name="title_activity_calculadora">Calculadora</string>
+    <string name="text_calc">Calcular</string>
+    <string name="label_amount">"Insira o valor arrecadado: "</string>
+    <string name="label_price_beer">Preço da cerveja de sua escolha:</string>
+    <string name="label_name_beer">Nome da cerveja:</string>
+    <string name="label_tipe_beer">Escolha o tipo:</string>
+    <string name="text_porML">Por ML</string>
+    <string name="text_Quantidade">Quantidade</string>
+    <string name="text_calc_ml">Calcule o preço da cerveja por ML</string>
+    <string name="text_calc_quant">Calcule quantas cervejas seu dinheiro pode comprar</string>
+    <string name="menu_text">Menu Principal</string>
+    <string name="label_ml">Digite o tamanho da cerveja em ML:</string>
+    <string name="text_cad_bebidas">Cadastre tipos de bebidas para os cálculos</string>
+    <string name="text_clean">Limpar Resultados</string>
+    <string name="text_clean_ml">LIMPAR CAMPOS</string>
+    <string name="title_activity_cadastro">Cadastrar Bebidas</string>
+    <string name="text_excluir">Excluir</string>
+    <string name="title_activity_calculadoraML">Calculadora ML</string>
+    <string name="title_activity_calculadoraQuant">Calculadora Quantidade</string>
+    <string name="text_temp_atual">Temp Atual:</string>
+    <string name="Maxima">MAX</string>
+    <string name="Minima">MIN</string>
+    <string name="text_temp_condicao" />
+
+</resources>

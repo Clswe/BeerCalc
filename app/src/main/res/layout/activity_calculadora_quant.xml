@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".view.CalculadoraQuantActivity">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/beercad"
+        android:alpha="0.4" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_margin="@dimen/def_margin"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/Rotulos"
+        android:text="@string/label_tipe_beer" />
+
+        <Spinner
+            android:id="@+id/spMarcas"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/background" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/Rotulos"
+        android:text="@string/label_price_beer" />
+
+        <EditText
+            android:id="@+id/edtPreco"
+            style="@style/CampoDecimal"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:backgroundTint="#090909" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/Rotulos"
+        android:text="@string/label_amount" />
+
+        <EditText
+            android:id="@+id/edtValor"
+            style="@style/CampoDecimal"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:backgroundTint="#090909" />
+
+        <Button
+            android:id="@+id/btnCalcular"
+            style="@style/BotaoPrimario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1976D2"
+            android:text="@string/text_calc" />
+
+        <Button
+            android:id="@+id/btnLimpar_"
+            style="@style/BotaoPrimario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFA000"
+            android:text="@string/text_clean_ml" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

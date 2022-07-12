@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".view.CalculadoraMLActivity">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.4"
+        android:background="@color/colorWhite" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/def_margin"
+        android:layout_marginTop="@dimen/def_margin"
+        android:layout_marginEnd="@dimen/def_margin"
+        android:layout_marginBottom="@dimen/def_margin"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/Rotulos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/label_tipe_beer" />
+
+        <Spinner
+            android:id="@+id/spMarcas_ml"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/background" />
+
+        <TextView
+            style="@style/Rotulos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/label_price_beer" />
+
+        <EditText
+            android:id="@+id/edtPreco_ml"
+            style="@style/CampoDecimal"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:backgroundTint="#090909"
+            android:padding="@dimen/def_margin" />
+
+        <TextView
+            style="@style/Rotulos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/label_ml" />
+
+        <EditText
+            android:id="@+id/edtMl_ml"
+            style="@style/CampoDecimal"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:backgroundTint="#0B0B0B"
+            android:inputType="numberSigned"
+            android:padding="@dimen/def_margin" />
+
+        <Button
+            android:id="@+id/btnCalcular_ml"
+            style="@style/BotaoPrimario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1976D2"
+            android:text="@string/text_calc" />
+
+        <ListView
+            android:id="@+id/lstDados_ml"
+            style="@style/Resultados"
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+        <Button
+            android:id="@+id/btnLimpar_ml"
+            style="@style/BotaoPrimario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFA000"
+            android:text="@string/text_clean" />
+
+    </LinearLayout>
+
+</RelativeLayout>

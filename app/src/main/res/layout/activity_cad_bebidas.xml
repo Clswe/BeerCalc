@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".view.CadBebidasActivity">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.4"
+        android:background="@color/colorWhite"/>
+
+    <LinearLayout
+        android:id="@+id/linearCadBebidas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/def_margin"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/Rotulos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/label_name_beer" />
+
+        <EditText
+            android:id="@+id/edtNomeCerveja"
+            style="@style/CampoTexto"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:backgroundTint="#0C0C0C"
+            android:padding="@dimen/def_margin" />
+
+
+
+        <TextView
+            style="@style/Rotulos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/label_price_beer" />
+
+        <EditText
+            android:id="@+id/edtValorCerveja"
+            style="@style/CampoDecimal"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:backgroundTint="#191919"
+            android:padding="@dimen/def_margin" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnExcluir"
+        style="@style/BotaoExcluir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearCadBebidas"
+        android:layout_centerInParent="true"
+        android:text="@string/text_excluir" />
+
+</RelativeLayout>
+
